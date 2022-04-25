@@ -7,6 +7,7 @@
 body {
     background-color: #20232d;
     font-family: "ZCOOL QingKe HuangYou", cursive;
+    margin-top: 15px;
     color: #fff;
 }
 
@@ -301,7 +302,6 @@ button:hover {
 .choose-btns {
     display: flex;
     flex-direction: column;
-    margin-top: 15px;
     padding-bottom: 20px;
     align-items: center;
 }
