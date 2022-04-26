@@ -7,7 +7,6 @@
 body {
     background-color: #20232d;
     font-family: "ZCOOL QingKe HuangYou", cursive;
-    margin-top: 15px;
     color: #fff;
 }
 
@@ -328,7 +327,6 @@ button {
 
 .duels-container {
     width: 1075px;
-    border-radius: 12px;
     background-color: #2f3341;
     padding: 20px;
     width: 100%;
